@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">e-Contrei</string>
+    <string name="teste">TESTE</string>
+
+    <string name="title_activity_splash__intro">Splash_Intro</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_intro">e-Contrei</string>
+</resources>
