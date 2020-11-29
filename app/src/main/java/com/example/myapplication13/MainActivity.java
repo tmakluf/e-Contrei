@@ -1,3 +1,4 @@
+//aplicação simples desenvolvida para que o usuário avalie os aspectos do atendimento médico recebido, como atendimento na recepção, tempo de espera e ao atendimento do Médico.
 package com.example.myapplication13;
 
 import androidx.appcompat.app.AppCompatActivity;
